@@ -1,0 +1,51 @@
+<?xml-stylesheet type="text/xsl" href="libreria.xsl"?>
+<libreria>
+    <libro>
+        <titulo>Physics-based animation</titulo>
+        <autor>Kenny Erleben</autor>
+        <editorial>Charles River media</editorial>
+        <Isbn>458358</Isbn>
+        <precio>8.06</precio>
+        <num_pagina>120</num_pagina>
+    </libro>
+    <libro>
+        <titulo>El ojo del ciclo</titulo>
+        <autor>Jose Lopez</autor>
+        <editorial>booket</editorial>
+        <Isbn>458358</Isbn>
+        <precio>3.00</precio>
+        <num_pagina>520</num_pagina>
+    </libro>
+    <libro>
+        <titulo>El ojo del mundo</titulo>
+        <autor>Juan Lopez</autor>
+        <editorial>booket</editorial>
+        <Isbn>458358</Isbn>
+        <precio>9.00</precio>
+        <num_pagina>1300</num_pagina>
+    </libro>
+    <libro>
+        <titulo>El ojo del mundo</titulo>
+        <autor>Juan Lopez</autor>
+        <editorial>booket</editorial>
+        <Isbn>458358</Isbn>
+        <precio>12.00</precio>
+        <num_pagina>2000</num_pagina>
+    </libro>
+    <libro>
+        <titulo>El ojo del rio</titulo>
+        <autor>Juan Lopez</autor>
+        <editorial>booket</editorial>
+        <Isbn>458358</Isbn>
+        <precio>30.00</precio>
+        <num_pagina>1500</num_pagina>
+    </libro>
+    <libro>
+        <titulo>El ojo del universo</titulo>
+        <autor>Juan Lopez</autor>
+        <editorial>booket</editorial>
+        <Isbn>458358</Isbn>
+        <precio>15.00</precio>
+        <num_pagina>1300</num_pagina>
+    </libro>
+</libreria>
