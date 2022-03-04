@@ -10,8 +10,8 @@
             <th>autor</th>
             <th>precio</th>
         </tr>
-        <xsl:for-each select="libreria/libro">
-        <xsl:if test="precio &gt;10">
+        <xsl:for-each select="libreria/libro[autor='Andresito']"> 
+        <xsl:if test="precio &gt; 12">
         <tr>
             <td><xsl:value-of select="titulo"/></td>
             <td><xsl:value-of select="autor"/></td>

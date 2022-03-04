@@ -11,6 +11,7 @@
             <th>precio</th>
         </tr>
         <xsl:for-each select="libreria/libro[autor!='Kenny Erleben']">
+ <!--       <xsl:for-each select="libreria/libro[autor!='Kenny Erleben']"> -->
         <xsl:sort select="precio" data-type="number"/>
         <tr>
             <td><xsl:value-of select="titulo"/></td>
