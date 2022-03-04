@@ -18,7 +18,7 @@
             <th>Título</th>
             <th>Autor</th>
             <th>Precio</th>
-            <th>Páginas</th>
+            <th>num_Páginas</th>
         </tr>
         <xsl:apply-templates select="libro"/>
     </table>
@@ -32,14 +32,14 @@
            <td><xsl:value-of select="precio"/></td>
            
             <xsl:choose>
-                <xsl:when test="numPaginas &gt; 150">
+                <xsl:when test="num_Paginas &gt; 150">
                     
-                    <xsl:apply-templates select="numPaginas"/>
+                    <xsl:apply-templates select="num_Paginas"/>
                        
             </xsl:when>
             <xsl:otherwise>
                 <td>
-                    <xsl:value-of select = "numPaginas"/>
+                    <xsl:value-of select = "num_Paginas"/>
                 </td>  
                </xsl:otherwise>
             </xsl:choose>
@@ -54,7 +54,7 @@
         <td bgcolor="#FF0000"><xsl:value-of select="."/></td>
 </xsl:template>
 
-<xsl:template match="numPaginas">
+<xsl:template match="num_Paginas">
             <td bgcolor="#00ff00">
                 <xsl:value-of select="."/>
             </td>
