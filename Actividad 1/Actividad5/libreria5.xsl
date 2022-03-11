@@ -11,7 +11,6 @@
 </xsl:template>
 
 <xsl:template match="libreria">
-    <h2>Mi biblioteca</h2>
     <table>
         <tr bgcolor="#FFFF00">
             <th>Isbn</th>
@@ -20,7 +19,6 @@
             <th>Precio</th>
             <th>num_Páginas</th>
         </tr>
-        <xsl:apply-templates select="libro"/>
     </table>
 </xsl:template>
 
@@ -30,12 +28,9 @@
            <xsl:apply-templates select="titulo"/>
            <xsl:apply-templates select="autor"/>
            <td><xsl:value-of select="precio"/></td>
-           
             <xsl:choose>
                 <xsl:when test="num_Paginas &gt; 150">
-                    
                     <xsl:apply-templates select="num_Paginas"/>
-                       
             </xsl:when>
             <xsl:otherwise>
                 <td>
@@ -45,19 +40,15 @@
             </xsl:choose>
          </tr>
     </xsl:template>
-
 <xsl:template match="titulo">
         <td bgcolor="#0000ff"><xsl:value-of select="."/></td>
 </xsl:template>
-
 <xsl:template match="autor">
         <td bgcolor="#FF0000"><xsl:value-of select="."/></td>
 </xsl:template>
-
 <xsl:template match="num_Paginas">
             <td bgcolor="#00ff00">
                 <xsl:value-of select="."/>
             </td>
 </xsl:template>
-
 </xsl:stylesheet>
