@@ -28,7 +28,7 @@
             </td>
             <td>
             <xsl:for-each select="Titulo_cancion">
-            <xsl:if test="@tiempo &lt; 110">    
+            <xsl:if test="@tiempo &lt; 280">    
             <xsl:value-of select="."/>
             </xsl:if>
             </xsl:for-each>
