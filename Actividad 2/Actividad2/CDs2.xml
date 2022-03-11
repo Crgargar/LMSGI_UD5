@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cd_p2.xsl"?>
+<CDs>
+    <CD>
+        <Titulo_del_album>El mal querer</Titulo_del_album>
+        <Artista>Rosalia</Artista>
+        <Titulo_cancion tiempo="281"> Luz oscuras</Titulo_cancion>
+        <Titulo_cancion tiempo="301"> Querer</Titulo_cancion>
+        <Titulo_cancion tiempo="290"> Campo oscuro</Titulo_cancion>
+        <Titulo_cancion tiempo="120"> Vivir </Titulo_cancion>
+        <Titulo_cancion tiempo="295"> Llegas tu</Titulo_cancion>
+        <Sello_discografico>Sony Music</Sello_discografico>
+        <Año_publicacion>2000</Año_publicacion>
+    </CD>
+    <CD>
+        <Titulo_del_album>Soledad</Titulo_del_album>
+        <Artista>Carlos Baute</Artista>
+        <Titulo_cancion tiempo="420"> Luz propia</Titulo_cancion>
+        <Titulo_cancion tiempo="200"> Soledad</Titulo_cancion>
+        <Titulo_cancion tiempo="281"> Bosque </Titulo_cancion>
+        <Titulo_cancion tiempo="230"> Amarillo</Titulo_cancion>
+        <Titulo_cancion tiempo="300"> Azul oscuro</Titulo_cancion>
+        <Sello_discografico>Warner Music</Sello_discografico>
+        <Año_publicacion>1995</Año_publicacion>
+    </CD>
+    <CD>
+        <Titulo_del_album> Colores </Titulo_del_album>
+        <Artista> JBalbin</Artista>
+        <Titulo_cancion tiempo="250">Amarillo</Titulo_cancion>
+        <Titulo_cancion tiempo="200">Azul</Titulo_cancion>
+        <Titulo_cancion tiempo="270">Verde</Titulo_cancion>
+        <Titulo_cancion tiempo="235">Colores</Titulo_cancion>
+        <Titulo_cancion tiempo="230">Naranja</Titulo_cancion>
+        <Sello_discografico> Universal Music </Sello_discografico>
+        <Año_publicacion>2021</Año_publicacion>
+    </CD>
+    <CD>
+        <Titulo_del_album>Locura de Yung</Titulo_del_album>
+        <Artista>Lennon</Artista>
+        <Titulo_cancion tiempo="281">Parque</Titulo_cancion>
+        <Titulo_cancion tiempo="210">oscura vida</Titulo_cancion>
+        <Titulo_cancion tiempo="290">Verde locura</Titulo_cancion>
+        <Titulo_cancion tiempo="220">paraiso</Titulo_cancion>
+        <Titulo_cancion tiempo="180">luz</Titulo_cancion>
+        <Sello_discografico>Warner Music</Sello_discografico>
+        <Año_publicacion>2000</Año_publicacion>
+    </CD>
+    <CD>
+        <Titulo_del_album>Tu frialdad</Titulo_del_album>
+        <Artista>el barrio</Artista>
+        <Titulo_cancion tiempo="200">locura viva</Titulo_cancion>
+        <Titulo_cancion tiempo="201">vida</Titulo_cancion>
+        <Titulo_cancion tiempo="211">oscuridad sola</Titulo_cancion>
+        <Titulo_cancion tiempo="181">nana</Titulo_cancion>
+        <Titulo_cancion tiempo="191">ayer</Titulo_cancion>
+        <Sello_discografico>Warner Music</Sello_discografico>
+        <Año_publicacion>1985</Año_publicacion>
+    </CD>
+    <CD>
+        <Titulo_del_album></Titulo_del_album>
+        <Artista></Artista>
+        <Titulo_cancion tiempo="281"></Titulo_cancion>
+        <Sello_discografico>EMI</Sello_discografico>
+        <Año_publicacion>2010</Año_publicacion>
+    </CD>
+    <CD>
+        <Titulo_del_album>Amanecer</Titulo_del_album>
+        <Artista>Ana Guerra</Artista>
+        <Titulo_cancion tiempo="221">Ana loca</Titulo_cancion>
+        <Titulo_cancion tiempo="241">parque</Titulo_cancion>
+        <Titulo_cancion tiempo="211">azules</Titulo_cancion>
+        <Titulo_cancion tiempo="200">carina</Titulo_cancion>
+        <Titulo_cancion tiempo="222">anoche</Titulo_cancion>
+        <Sello_discografico>EMI</Sello_discografico>
+        <Año_publicacion>2003</Año_publicacion>
+    </CD>
+    <CD>
+        <Titulo_del_album>Bosques</Titulo_del_album>
+        <Artista>Lucia Mena</Artista>
+        <Titulo_cancion tiempo="222">clases</Titulo_cancion>
+        <Titulo_cancion tiempo="211">feria sevilla</Titulo_cancion>
+        <Titulo_cancion tiempo="200">flamenco</Titulo_cancion>
+        <Titulo_cancion tiempo="214"> locura flamenca</Titulo_cancion>
+        <Titulo_cancion tiempo="262">ole sevilla</Titulo_cancion>
+        <Sello_discografico>Sony Music</Sello_discografico>
+        <Año_publicacion>2005</Año_publicacion>
+    </CD>
+    <CD>
+        <Titulo_del_album>amanecer siempre</Titulo_del_album>
+        <Artista>Andres</Artista>
+        <Titulo_cancion tiempo="110">flamenco de calle</Titulo_cancion>
+        <Titulo_cancion tiempo="250"> flamenco de barrio</Titulo_cancion>
+        <Titulo_cancion tiempo="280"> solear</Titulo_cancion>
+        <Titulo_cancion tiempo="222"> flamenco locura</Titulo_cancion>
+        <Titulo_cancion tiempo="210"> flamenco sevillano</Titulo_cancion>
+        <Sello_discografico>EMI</Sello_discografico>
+        <Año_publicacion>2022</Año_publicacion>
+    </CD>
+    <CD>
+        <Titulo_del_album> Auditorio </Titulo_del_album>
+        <Artista>Javier Manchego</Artista>
+        <Titulo_cancion tiempo="211">amanecer</Titulo_cancion>
+        <Titulo_cancion tiempo="200"> locura auditoria</Titulo_cancion>
+        <Titulo_cancion tiempo="215"> mecanica</Titulo_cancion>
+        <Titulo_cancion tiempo="221">sintonia</Titulo_cancion>
+        <Titulo_cancion tiempo="222">sintonias locas</Titulo_cancion>
+        <Sello_discografico>Sony Music</Sello_discografico>
+        <Año_publicacion>2000</Año_publicacion>
+    </CD>
+</CDs>
